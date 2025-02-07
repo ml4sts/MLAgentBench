@@ -1,5 +1,4 @@
-# Hello and welcome
-## MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation
+# MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation
 
 MLAgentBench is a suite of end-to-end Machine Learning (ML) experimentation tasks for benchmarking AI agents, where the agent aims to take a given 
 dataset and a machine learning task description and autonomously develop or improve an ML model. Paper: https://arxiv.org/abs/2310.03302
@@ -14,8 +13,8 @@ Specifically, we include 13 diverse ML engineering tasks,
 achievable by trying different machine learning methods, data processing, architectures, training processes, etc:
 ![](figs/table.png)
 
-# Start here :)
-## Setup
+
+# Setup
 
 The MLAgentBench package can be installed with
 ```
